@@ -1,1 +1,1 @@
-# tos
+# Openbuk tos
